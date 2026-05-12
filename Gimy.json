@@ -1,0 +1,12 @@
+{
+  "spider": "https://raw.githubusercontent.com/lkwodp/storage/refs/heads/main/spider.jar;md5;366234afccefe57da4da2f0df1d266ab",
+  "sites": [
+    {
+      "key": "gimy",
+      "name": "Gimy",
+      "type": 3,
+      "api": "csp_Gimy",
+      "searchable": 1
+    }
+  ]
+}
