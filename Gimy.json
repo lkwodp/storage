@@ -1,11 +1,11 @@
 {
-  "spider": "https://raw.githubusercontent.com/lkwodp/storage/refs/heads/main/spider.jar;md5;a289daf3c56a07e497d044122c674b36",
+  "spider": "https://raw.githubusercontent.com/lkwodp/storage/refs/heads/main/custom_spider.jar;md5;0065ef0389ac6aafd0b12623ca1873fd",
   "sites": [
     {
-      "key": "gimy",
-      "name": "Gimy",
+      "key": "Gying",
+      "name": "Gying",
       "type": 3,
-      "api": "csp_Gimy",
+      "api": "csp_Gying",
       "searchable": 1
     }
   ]
